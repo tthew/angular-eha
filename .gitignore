@@ -1,0 +1,6 @@
+coverage
+.DS_Store
+node_modules/
+bower_components/
+*.log
+docs/build
